@@ -31,11 +31,11 @@ Untuk developer yang ingin menggunakan codebase ini silahkan ikuti intruksi diba
 
 ## Screenshot
 <div align="center">
-    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/Assets/Images/sc1.png">
+    <img width="200" src="https://github.com/agusnuryady/Counter-App/blob/master/Assets/Images/sc1.png">
 </div>
 
 ## APPS
-* [Android APk](https://github.com/agusnuryady/Simple-Events/blob/master/android/app-release.apk)
+* [Android APk](https://github.com/agusnuryady/Counter-App/blob/master/android/app-release.apk)
 
 ## Contributors
 * Created by @agusnuryady
