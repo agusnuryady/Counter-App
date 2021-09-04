@@ -31,7 +31,7 @@ Untuk developer yang ingin menggunakan codebase ini silahkan ikuti intruksi diba
 
 ## Screenshot
 <div align="center">
-    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/assets/images/sc1.png">
+    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/Assets/Images/sc1.png">
 </div>
 
 ## APPS
